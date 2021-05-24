@@ -6,7 +6,7 @@
   
 - 👨🏻‍💻Currently working on C++ and some Basic Projects.
 - 📫 How to reach me Mail - **chandratushu21@gmail.com**
-- Planning to start a Youtube Channel.
+- Youtube Channel **https://www.youtube.com/channel/UCpt4aVWGlflPbtsmVpjCnMA**.
 - Project Partners in C++ are welcomed.
 
 [![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=chandratushu21)](https://github.com/anuraghazra/github-readme-stats)
